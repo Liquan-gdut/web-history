@@ -16,9 +16,9 @@
  - 组件抽象，组件复用；
  - Virtual DOM + Diff。DOM 操作非常昂贵，性能消耗最大。React 通过VDOM模型与diff算法，正确渲染页面的同时减少DOM操作；
 
-![传统DOM更新](/00-images/传统DOM更新.jpg)
+![传统DOM更新](./00-images/传统DOM更新.jpg)
 
-![React-DOM更新](/00-images/React-DOM更新.png)
+![React-DOM更新](./00-images/React-DOM更新.png)
 
 2. React 几个重要的概念，了解它可以带给我们什么启发
     1. render()：渲染，创建页面DOM元素。JSX代码 => VDOM => 真实的DOM
