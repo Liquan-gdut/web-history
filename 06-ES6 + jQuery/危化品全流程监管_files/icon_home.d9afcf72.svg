@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 10备份</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="左侧菜单栏" transform="translate(-222.000000, -52.000000)">
+            <g id="左侧菜单栏展开" transform="translate(206.000000, 24.000000)">
+                <g id="编组-10备份" transform="translate(16.000000, 28.000000)">
+                    <rect id="矩形" stroke="#979797" fill="#D8D8D8" opacity="0" x="0.5" y="0.5" width="15" height="15"></rect>
+                    <path d="M12.8,13.5 C12.9104569,13.5 13,13.5895431 13,13.7 L13,14.8 C13,14.9104569 12.9104569,15 12.8,15 L3.2,15 C3.08954305,15 3,14.9104569 3,14.8 L3,13.7 C3,13.5895431 3.08954305,13.5 3.2,13.5 L12.8,13.5 Z M14,2 C14.5522847,2 15,2.44771525 15,3 L15,11 C15,11.5522847 14.5522847,12 14,12 L2,12 C1.44771525,12 1,11.5522847 1,11 L1,3 C1,2.44771525 1.44771525,2 2,2 L14,2 Z" id="形状结合" fill="#DDDDDD" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
