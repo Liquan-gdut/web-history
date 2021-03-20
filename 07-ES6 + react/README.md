@@ -1,0 +1,1 @@
+## 参考目前任意一个用`webcli`初始化的 react 项目，如：[危化品](https://git.jd.com/liandong-prod/chemical-admin)

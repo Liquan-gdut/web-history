@@ -1,5 +1,5 @@
-var el = document.getElementById("view-btn");
+var viewEl = document.getElementById("view-btn");
 
-el.addEventListener("click", function () {
+viewEl.addEventListener("click", function () {
   window.location.href = "http://syzl-dev.smart-urban.cn/chemical-admin/#/monitorWarning/187";
 });
